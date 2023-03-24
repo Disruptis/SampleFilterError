@@ -1,0 +1,13 @@
+:root {
+  --lightgray: #e0e0e0;
+  --gray: #c0c0c0;
+  --darkgray: #333;
+  --white: #fff;
+}
+body {
+  color: #dadada;
+  background-color: #1e1e1e;
+}
+a[href] {
+  color: #7580ff;
+}
